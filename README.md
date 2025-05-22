@@ -1,4 +1,3 @@
-- This Repository Is Tentatively Published.
 - This Repository Contains Simple Codes of Machine Learning that are useful for any beginners who is seeking to learn about Machine Learning Techniques.
 - Index has been uploaded in table format as below:
 
